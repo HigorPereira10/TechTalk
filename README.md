@@ -3,20 +3,16 @@
 ## Descrição
 TechTalk é um blog de tecnologia que oferece as últimas notícias e análises sobre jogos, celulares, informática e eletrônicos. O projeto foi desenvolvido utilizando apenas HTML e CSS.
 
-## Imagem da Home
-![Home Page](![image](https://github.com/HigorPereira10/TechTalk/assets/150545158/811cbe9d-11a2-4931-a901-a43cfd65aae7)
-)
-
 ## Tecnologias Utilizadas
 - HTML
 - CSS
 
 ## Estrutura do Projeto
 - `index.html`: Página principal do blog.
-- `jogos.html`: Página dedicada a notícias sobre jogos.
-- `celulares.html`: Página dedicada a notícias sobre celulares.
-- `informatica.html`: Página dedicada a notícias sobre informática.
-- `eletronicos.html`: Página dedicada a notícias sobre eletrônicos.
+- `categorias/jogos.html`: Página dedicada a notícias sobre jogos.
+- `categorias/celulares.html`: Página dedicada a notícias sobre celulares.
+- `categorias/informatica.html`: Página dedicada a notícias sobre informática.
+- `categorias/eletronicos.html`: Página dedicada a notícias sobre eletrônicos.
 - `CSS/estilo.css`: Arquivo de estilo CSS.
 
 ## Instruções para Configuração e Execução Local
@@ -36,4 +32,5 @@ TechTalk é um blog de tecnologia que oferece as últimas notícias e análises 
 - **Radeon RX 8000: AMD adiciona novo recurso às futuras placas de vídeo em patch do Linux**: [TudoCelular](https://www.tudocelular.com/curiosidade/noticias/n222815/amd-radeon-rx-8000-placas-video-patch-linux.html)
 - **EA FC 24 está disponível no Xbox Game Pass**: [TecMundo](https://www.tecmundo.com.br/voxel/286325-ea-fc-24-disponivel-xbox-game-pass-veja-jogar.htm)
 
-
+## Imagem da Home
+![Home do TechTalk](Imagens/Home.png)
