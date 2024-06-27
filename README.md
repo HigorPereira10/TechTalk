@@ -33,4 +33,4 @@ TechTalk é um blog de tecnologia que oferece as últimas notícias e análises 
 - **EA FC 24 está disponível no Xbox Game Pass**: [TecMundo](https://www.tecmundo.com.br/voxel/286325-ea-fc-24-disponivel-xbox-game-pass-veja-jogar.htm)
 
 ## Imagem da Home
-![Home do TechTalk](techtalk/Imagens/Home.png)
+![Home do TechTalk]([techtalk/Imagens/Home.png](https://github.com/HigorPereira10/TechTalk/blob/main/TechTalk/Imagens/Home.png))
